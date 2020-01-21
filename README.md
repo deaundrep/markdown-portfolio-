@@ -11,7 +11,7 @@ Dedidcated and efficient web developer with experience in application layers and
 * *Morgan State University*
 * Code Immersives
   
-![](https://images.app.goo.gl/TucMgGbnsTirXkqQ9) 
+![msu](https://images.app.goo.gl/TucMgGbnsTirXkqQ9) 
 
 ### *Certifications* 
 1. AWS Cloud Practitioner
@@ -19,9 +19,9 @@ Dedidcated and efficient web developer with experience in application layers and
 3. AWS Certified Solutions Architect - Associate
    _________
    ## **AWS**  **ROAD** **MAP**
-   ![](https://images.app.goo.gl/Qm2HKpKC2JA5d2nr7)
+   ![map](https://images.app.goo.gl/Qm2HKpKC2JA5d2nr7)
 
-[![](https://youtu.be/a9__D53WsUs)]
+[![vid](https://youtu.be/a9__D53WsUs)]
 
 
 
