@@ -4,6 +4,9 @@
 ##### www.linkedin.com/in/deaundre-prescott-778073157
 
 _________________
+### **Summary of Qualifications**
+Dedidcated and efficient web developer with experience in application layers and databases.
+
 ## **EDUCATION**
 * *Morgan State University*
 * Code Immersives
