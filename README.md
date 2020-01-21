@@ -13,4 +13,11 @@ _________________
 ### *Certifications* 
 1. AWS Cloud Practitioner
 2. CompTia Security +
+3. AWS Certified Solutions Architect - Associate
+   _________
+   ## **AWS**  **ROAD** **MAP**
+   ![](https://images.app.goo.gl/Qm2HKpKC2JA5d2nr7)
+
+   
+
    
